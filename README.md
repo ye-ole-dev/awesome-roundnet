@@ -55,6 +55,7 @@ Find out more information about this list [here](about.md).
 only public groups
 
 - [European Roundnet Community](https://web.facebook.com/groups/129810930851029)
+- [Roundnet Coach Community](https://web.facebook.com/groups/411171740211439/)
 - [Spikeball Roundnet Association](https://web.facebook.com/groups/1638656126352541)
 - ...
 
