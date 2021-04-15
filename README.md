@@ -1,7 +1,7 @@
 # awesome-roundnet
 
 > #
-> A curated list of awesome roundnet stuff  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) \
+> A curated list of awesome roundnet stuff  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 > #
 
 Find out more information about this list [here](about.md).
