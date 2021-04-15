@@ -8,9 +8,9 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- adds something of value to the Roundnet community
+- maintains the existing section-structure
+- maintains the alphabetical ordering
 
 Thank you for your suggestions!
 
