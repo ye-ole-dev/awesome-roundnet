@@ -84,7 +84,8 @@ only public groups
 
 only channels not (directly) associated with an [organisation](#associations--organisations) or a [manufacturer](#equipment-manufactures).
 
-- [How to Roundnet](https://www.youtube.com/channel/UColRVNu-hSF_NJJnRNc3dOg)
+- [Chornspikes](https://www.youtube.com/c/chornspikes/)
+- [How to Roundnet](https://www.youtube.com/channel/UColRVNu-hSF_NJJnRNc3dOg) - [HTR Plus](https://www.youtube.com/c/HTRPlus/)
 - ...
 
 
