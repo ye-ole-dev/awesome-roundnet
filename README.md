@@ -70,12 +70,13 @@ only public groups
 
 # Podcasts
 
-## International Level
+## International Level / English
 
 - [Around the Net](https://open.spotify.com/show/0BBj9dUci97EDYeNsJygl9) (English)
+- [Lefty on Two](https://open.spotify.com/show/5auIcjc9OpO9G25TgbEVWV) (English)
 - ...
 
-## National Level
+## National Level / not English
 
 - [Netzklatscher](https://open.spotify.com/show/0iYVTONsyfEP4MZHYvBaVa) (German)
 - ...
